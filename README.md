@@ -1,0 +1,1 @@
+This project is a bare-bones website project collecting a set of recipes, made purely in HTML.
